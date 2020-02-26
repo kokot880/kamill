@@ -1,0 +1,12 @@
+{
+    "autoload": {
+        "psr-4": {
+			       "Config\\": "config/",
+			       "Message\\": "message/",
+                   "": "class/"
+		    }
+    },
+    "require": {
+        "kint-php/kint": "dev-master"
+    }
+}
